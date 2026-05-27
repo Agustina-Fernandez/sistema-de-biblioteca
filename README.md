@@ -21,7 +21,7 @@ La aplicación ofrece un menú interactivo con 8 opciones que permiten realizar 
 5. **Altas de Registros (Create):** Permite ingresar nuevos libros al inventario o registrar nuevos usuarios con sus respectivas asignaciones de préstamos.
 6. **Modificaciones (Update):** Permite actualizar de forma individual campos de las tablas (como el estado de disponibilidad, datos del autor, sucursal, datos de contacto del usuario, entre otros).
 7. **Bajas de Registros (Delete):** Elimina registros de la base de datos basándose en el código único del libro o del cliente.
-8. **Exportación Automatizada:** Al realizar modificaciones, altas o bajas, el sistema rescribe y exporta automáticamente los datos actualizados a archivos externos en formato CSV.
+8. **Salir del Sistema:** Finaliza la ejecución de la aplicación de manera segura.
 
 
 ## 📂 Estructura del Proyecto
