@@ -1,4 +1,4 @@
-# Sistema de Gestión de Biblioteca 📚
+# 📚 Sistema de Gestión de Biblioteca 
 
 Este proyecto consiste en una aplicación interactiva basada en consola desarrollada en Python para la administración y control de inventarios de libros y préstamos de usuarios en una biblioteca. El sistema almacena la información de manera persistente en una base de datos relacional y automatiza la generación de reportes en archivos planos.
 
