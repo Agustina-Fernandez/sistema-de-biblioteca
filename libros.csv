@@ -1,0 +1,8 @@
+Codigo_de_libro, Nombre, Autor, Año_de_publicacion, Genero, Sucursal, Disponible
+13,Orgullo y prejuicio,Jane Austin,2011,romantico,sucursal Rivadavia,no
+56,Harry Potter,J.K Rowling,2008,fantasia,sucursal Devoto,no
+21,Alicia en el pais de las maravillas,Lewis Carroll,1865,fantasia,sucursal vicente lopez,no
+50,El Naufrago,Gabriel Garcia Marquez,1955,novela narrativa,sucursal palermo,si
+20,Juego de tronos,J.R.R Tolkien,1937,novela,sucursal palermo,no
+47,La brújula dorada,Philip Pullman,1995,fantasia,sucursal Devoto,si
+32,El principito,Antoine de Saint-Exupéry,1943,novela,sucursal Rivadavia,si
